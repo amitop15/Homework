@@ -26,7 +26,7 @@ public class UnVote {
                     System.out.println("Country number " + i + " dropped veto");
                     return;
                 default:
-                    System.out.println("This vote is invalid and the voting procces is canceled");
+                    System.out.println("This vote is invalid and the voting process is canceled");
                     return;
             }
         }
